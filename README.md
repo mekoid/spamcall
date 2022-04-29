@@ -1,2 +1,8 @@
 # spamcall
-Spam call with api karena gak bisa scrapt anjg
+
+### install
+```bash
+> git clone https://github.com/mekoid/spamcall
+> cd spamcall
+> python spam.py
+```

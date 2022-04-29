@@ -1,4 +1,5 @@
 # spamcall
+jangan lupa dowload python. gak bisa? tdur aja:)
 
 ### install
 ```bash
@@ -6,3 +7,5 @@
 > cd spamcall
 > python spam.py
 ```
+### note
+spam ini menggunakan api jadi kalau api nya mokad ya mokad:v

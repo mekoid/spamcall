@@ -1,3 +1,7 @@
+''''
+kalau mokad change sendiri:)
+
+''''
 import json
 from urllib import request
 
